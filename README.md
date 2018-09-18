@@ -1,2 +1,4 @@
 # hello-world
-This is my first ever Get Hub repository
+This is my first ever GitHub repository
+
+Now I have made some changes.
